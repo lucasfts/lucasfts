@@ -1,6 +1,6 @@
 ## Hi, I'm Lucas Feitoza da Silva
 
-I have a bachelor's degree in computer engineering and I've been working as a software developer since 2017, mainly with Dot Net environment, SPA technologies and databases. I am always open to collaborating on projects and innovative/disruptive ideas. Find out more about me & feel free to connect with me here:
+I have a bachelor's degree in computer engineering and I've been working as a software developer since 2017, mainly with Dot Net, SPA frameworks, relational and non relational databases and cloud providers. I am always open to collaborating on projects and innovative/disruptive ideas. Find out more about me & feel free to connect with me here:
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucasfeitozasilva/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:silva.lucasfeitoza@gmail.com)
